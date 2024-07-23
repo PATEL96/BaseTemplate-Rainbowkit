@@ -1,4 +1,4 @@
-This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/) Project template.
+This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) + [shadcn/ui](https://ui.shadcn.com/) + [Tailwind CSS](https://tailwindcss.com/) Project template.
 
 This project is using default Salient Template provided by Tailwind CSS.
 ## Getting Started
@@ -27,7 +27,8 @@ To learn more about this stack, take a look at the following resources:
 - [RainbowKit Documentation](https://rainbowkit.com) - Learn how to customize your wallet connection flow.
 - [wagmi Documentation](https://wagmi.sh) - Learn how to interact with Ethereum.
 - [Next.js Documentation](https://nextjs.org/docs) - Learn how to build a Next.js application.
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation) - Learn how to build a Next.js application.
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation) - Learn Tailwind CSS.
+- [Tailwind CSS Documentation](https://ui.shadcn.com/docs) - Learn how to use shadcn/ui.
 
 You can check out [the RainbowKit GitHub repository](https://github.com/rainbow-me/rainbowkit) - your feedback and contributions are welcome!
 
