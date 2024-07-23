@@ -1,5 +1,5 @@
 import Web3Provider from '../Web3Provider/Web3Provider';
-import '../styles/globals.css';
+import '../styles/global.css';
 import type { AppProps } from 'next/app';
 
 function App({ Component, pageProps }: AppProps) {
