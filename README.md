@@ -28,7 +28,7 @@ To learn more about this stack, take a look at the following resources:
 - [wagmi Documentation](https://wagmi.sh) - Learn how to interact with Ethereum.
 - [Next.js Documentation](https://nextjs.org/docs) - Learn how to build a Next.js application.
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation) - Learn Tailwind CSS.
-- [Tailwind CSS Documentation](https://ui.shadcn.com/docs) - Learn how to use shadcn/ui.
+- [shadcn/ui Documentation](https://ui.shadcn.com/docs) - Learn how to use shadcn/ui.
 
 You can check out [the RainbowKit GitHub repository](https://github.com/rainbow-me/rainbowkit) - your feedback and contributions are welcome!
 
