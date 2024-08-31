@@ -9,6 +9,7 @@ import {
   optimism,
   polygon,
   sepolia,
+  polygonAmoy
 } from 'wagmi/chains';
 import { darkTheme, getDefaultConfig, RainbowKitProvider } from '@rainbow-me/rainbowkit';
 import { Props } from 'next/script';
@@ -19,10 +20,11 @@ const config = getDefaultConfig({
   chains: [
     mainnet,
     polygon,
+    polygonAmoy,
     optimism,
     arbitrum,
     base,
-    ...(process.env.NEXT_PUBLIC_ENABLE_TESTNETS === 'true' ? [sepolia] : []),
+    sepolia
   ],
   ssr: true,
 });
